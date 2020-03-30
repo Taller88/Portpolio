@@ -1,7 +1,7 @@
 package com.spring.SocketTest;
 
 /**
- * Hello world!
+ * 아직 잘 모르겠다 Git!
  *
  */
 public class App 
