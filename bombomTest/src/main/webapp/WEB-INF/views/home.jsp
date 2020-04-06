@@ -129,6 +129,7 @@
                            <tr>
                               <td>
                                  <a href="#"><img src="${pageContext.request.contextPath}/resources/images/image_1.jpg" width="400" height="100"></a>
+                                 <input type = 'botton' value ='동영상'>
                               </td>
                            </tr>
                            <tr>
